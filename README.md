@@ -7,6 +7,7 @@
 - [ ] 남미여행 루트 결정
 - [ ] 비행기 예약
 - [ ] 마추픽추 예약
+- [ ] JAL 가입
 
 ## 참고자료
 * http://blog.naver.com/PostView.nhn?blogId=lifetripper&logNo=220865022595&parentCategoryNo=&categoryNo=43&viewDate=&isShowPopularPosts=true&from=search
